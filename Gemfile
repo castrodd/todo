@@ -18,6 +18,9 @@ gem 'rails', '~> 5.1.2'
 #group :production do
 #  gem 'pg'
 #end
+group :production do
+  gem 'rails_12factor'
+end
 
 # Use postgres as the database for Active Record
 gem 'pg'
