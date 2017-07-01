@@ -11,9 +11,18 @@
 }
 
 .jumbotron h1 {
-  padding-left: 2em;
+  padding-left: 1em;
 }
 
 .jumbotron p {
-  padding-left: 4em;
+  padding-left: 5em;
+}
+
+.table{
+  padding-left: 1 em;
+  padding-right: 1 em;
+}
+
+.link {
+  padding-left: 1em;
 }
