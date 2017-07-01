@@ -2,9 +2,6 @@
   Place all the styles related to the matching controller here.
   They will automatically be included in application.css.
 */
-#test {
-  color: blue;
-}
 
 .btn {
   color: white;
@@ -21,8 +18,4 @@
 .table{
   padding-left: 1 em;
   padding-right: 1 em;
-}
-
-.link {
-  padding-left: 1em;
 }
