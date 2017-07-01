@@ -5,3 +5,15 @@
 #test {
   color: blue;
 }
+
+.btn {
+  color: white;
+}
+
+.jumbotron h1 {
+  padding-left: 2em;
+}
+
+.jumbotron p {
+  padding-left: 4em;
+}
